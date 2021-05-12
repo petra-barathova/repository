@@ -1,2 +1,2 @@
-# repository
-My first beginner repository.
+# Petra Baráthová
+# úvod do programovania
