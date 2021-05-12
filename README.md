@@ -1,3 +1,3 @@
 # Petra Baráthová
-# úvod do programovania
+# - Úvod do programovania -
 https://docs.microsoft.com/sk-sk/users/barthovpetra-7480/
