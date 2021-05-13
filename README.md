@@ -1,3 +1,6 @@
-# Petra Baráthová
-# - Úvod do programovania -
-https://docs.microsoft.com/sk-sk/users/barthovpetra-7480/
+# NodeJS ŠTC Project
+
+Commands in order:
+- npm install #Install project
+- tsc #Compile to JavaScript
+- npm run start #Start the project
